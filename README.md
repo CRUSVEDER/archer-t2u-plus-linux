@@ -1,3 +1,15 @@
+## method 1
+sudo apt update
+
+sudo apt upgrade
+
+sudo apt install realtek-rtl88xxau-dkms
+
+reboot
+
+iwcofig(check)
+
+## method 2
 # TP-Link Archer T2U Plus a.k.a AC600 High-Gain
 
 
